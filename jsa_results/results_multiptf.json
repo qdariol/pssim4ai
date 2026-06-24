@@ -1,0 +1,940 @@
+[
+    {
+        "application": "MLP1",
+        "error_energy": 2.2471034271848938,
+        "error_power": 2.2775856499213867,
+        "error_timing": -0.03220395315089623,
+        "id": 4,
+        "mapping": [
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 1.601992296,
+        "measured_power": 0.9406,
+        "measured_timing": 170316,
+        "memory_map": [
+            64,
+            64,
+            64
+        ],
+        "mode": "P",
+        "predicted_energy": 1.637990719786654,
+        "predicted_power": 0.9620229706231606,
+        "predicted_timing": 170261.15151515152,
+        "scenario_to_run_id": 4
+    },
+    {
+        "application": "MLP1",
+        "error_energy": -8.674013117796619,
+        "error_power": -9.231114607910046,
+        "error_timing": 0.6137582142899788,
+        "id": 6,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 5.747845841999999,
+        "measured_power": 1.1439,
+        "measured_timing": 502478,
+        "memory_map": [
+            2048
+        ],
+        "mode": "P",
+        "predicted_energy": 5.249276939674192,
+        "predicted_power": 1.038305280000117,
+        "predicted_timing": 505562.0,
+        "scenario_to_run_id": 6
+    },
+    {
+        "application": "MLP1",
+        "error_energy": -6.645870321923075,
+        "error_power": -7.215343771128484,
+        "error_timing": 0.6137582142899788,
+        "id": 6,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 4.977697811400001,
+        "measured_power": 0.99063,
+        "measured_timing": 502478,
+        "memory_map": [
+            1024
+        ],
+        "mode": "P",
+        "predicted_energy": 4.6468864698371535,
+        "predicted_power": 0.9191526400000699,
+        "predicted_timing": 505562.0,
+        "scenario_to_run_id": 6
+    },
+    {
+        "application": "MLP1",
+        "error_energy": -3.999196311161931,
+        "error_power": -4.584814847714061,
+        "error_timing": 0.6137582142899788,
+        "id": 6,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 4.526723806400001,
+        "measured_power": 0.90088,
+        "measured_timing": 502478,
+        "memory_map": [
+            512
+        ],
+        "mode": "P",
+        "predicted_energy": 4.345691234917963,
+        "predicted_power": 0.8595763199999136,
+        "predicted_timing": 505562.0,
+        "scenario_to_run_id": 6
+    },
+    {
+        "application": "MLP1",
+        "error_energy": 3.756324929786149,
+        "error_power": 2.2942024920957413,
+        "error_timing": 1.432314656714264,
+        "id": 11,
+        "mapping": [
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 1.573852243,
+        "measured_power": 0.91519,
+        "measured_timing": 171970,
+        "memory_map": [
+            64,
+            64,
+            64
+        ],
+        "mode": "CG",
+        "predicted_energy": 1.6329712471618074,
+        "predicted_power": 0.936186311787411,
+        "predicted_timing": 174433.15151515152,
+        "scenario_to_run_id": 4
+    },
+    {
+        "application": "MLP1",
+        "error_energy": -7.180124938001253,
+        "error_power": -8.053503983578572,
+        "error_timing": 0.9498774650654941,
+        "id": 13,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 6.10104378,
+        "measured_power": 1.131,
+        "measured_timing": 539438,
+        "memory_map": [
+            2048
+        ],
+        "mode": "CG",
+        "predicted_energy": 5.662981214073846,
+        "predicted_power": 1.0399148699457264,
+        "predicted_timing": 544562.0,
+        "scenario_to_run_id": 6
+    },
+    {
+        "application": "MLP1",
+        "error_energy": -6.309006866765776,
+        "error_power": -7.190582608030664,
+        "error_timing": 0.9498774650654941,
+        "id": 13,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 5.351764397999999,
+        "measured_power": 0.9921,
+        "measured_timing": 539438,
+        "memory_map": [
+            1024
+        ],
+        "mode": "CG",
+        "predicted_energy": 5.014121214637053,
+        "predicted_power": 0.9207622299457278,
+        "predicted_timing": 544562.0,
+        "scenario_to_run_id": 6
+    },
+    {
+        "application": "MLP1",
+        "error_energy": -3.648924310733597,
+        "error_power": -4.55552982458106,
+        "error_timing": 0.9498774650654941,
+        "id": 13,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 4.8672951302,
+        "measured_power": 0.90229,
+        "measured_timing": 539438,
+        "memory_map": [
+            512
+        ],
+        "mode": "CG",
+        "predicted_energy": 4.689691214918979,
+        "predicted_power": 0.8611859099457876,
+        "predicted_timing": 544562.0,
+        "scenario_to_run_id": 6
+    },
+    {
+        "application": "MLP2",
+        "error_energy": -8.59352633084947,
+        "error_power": -8.664208304010218,
+        "error_timing": 0.07738693873264751,
+        "id": 15,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 14.072845080000002,
+        "measured_power": 1.1368,
+        "measured_timing": 1237935,
+        "memory_map": [
+            2048
+        ],
+        "mode": "P",
+        "predicted_energy": 12.863491432550548,
+        "predicted_power": 1.0383052800000119,
+        "predicted_timing": 1238893.0,
+        "scenario_to_run_id": 15
+    },
+    {
+        "application": "MLP2",
+        "error_energy": -7.053467914518928,
+        "error_power": -7.125340770155302,
+        "error_timing": 0.07738693873264751,
+        "id": 15,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 12.2514713145,
+        "measured_power": 0.98967,
+        "measured_timing": 1237935,
+        "memory_map": [
+            1024
+        ],
+        "mode": "P",
+        "predicted_energy": 11.387317716275252,
+        "predicted_power": 0.9191526400000041,
+        "predicted_timing": 1238893.0,
+        "scenario_to_run_id": 15
+    },
+    {
+        "application": "MLP2",
+        "error_energy": -4.237788758878621,
+        "error_power": -4.311838897485438,
+        "error_timing": 0.07738693873264751,
+        "id": 15,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 11.120493898500001,
+        "measured_power": 0.89831,
+        "measured_timing": 1237935,
+        "memory_map": [
+            512
+        ],
+        "mode": "P",
+        "predicted_energy": 10.649230858137585,
+        "predicted_power": 0.8595763199999986,
+        "predicted_timing": 1238893.0,
+        "scenario_to_run_id": 15
+    },
+    {
+        "application": "MLP2",
+        "error_energy": 4.665786614092115,
+        "error_power": 4.928430742088758,
+        "error_timing": -0.25123004092595813,
+        "id": 18,
+        "mapping": [
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 4.1821960140000005,
+        "measured_power": 0.9433,
+        "measured_timing": 443358,
+        "memory_map": [
+            64,
+            64,
+            64
+        ],
+        "mode": "P",
+        "predicted_energy": 4.3773283557963065,
+        "predicted_power": 0.9897898871901233,
+        "predicted_timing": 442244.1515151515,
+        "scenario_to_run_id": 18
+    },
+    {
+        "application": "MLP2",
+        "error_energy": -8.070158926197356,
+        "error_power": -8.18780844964649,
+        "error_timing": 0.1281415043715781,
+        "id": 22,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 14.01597405,
+        "measured_power": 1.131,
+        "measured_timing": 1239255,
+        "memory_map": [
+            2048
+        ],
+        "mode": "CG",
+        "predicted_energy": 12.88486266911042,
+        "predicted_power": 1.0383958864344982,
+        "predicted_timing": 1240843.0,
+        "scenario_to_run_id": 15
+    },
+    {
+        "application": "MLP2",
+        "error_energy": -7.025346368141447,
+        "error_power": -7.1443330167081,
+        "error_timing": 0.1281415043715781,
+        "id": 22,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 12.2682527235,
+        "measured_power": 0.98997,
+        "measured_timing": 1239255,
+        "memory_map": [
+            1024
+        ],
+        "mode": "CG",
+        "predicted_energy": 11.406365476355179,
+        "predicted_power": 0.9192432464344948,
+        "predicted_timing": 1240843.0,
+        "scenario_to_run_id": 15
+    },
+    {
+        "application": "MLP2",
+        "error_energy": -4.5531290191482405,
+        "error_power": -4.675279549970908,
+        "error_timing": 0.1281415043715781,
+        "id": 22,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 11.175973366500001,
+        "measured_power": 0.90183,
+        "measured_timing": 1239255,
+        "memory_map": [
+            512
+        ],
+        "mode": "CG",
+        "predicted_energy": 10.66711687997761,
+        "predicted_power": 0.8596669264344974,
+        "predicted_timing": 1240843.0,
+        "scenario_to_run_id": 15
+    },
+    {
+        "application": "MLP2",
+        "error_energy": 5.127662498092034,
+        "error_power": 4.7325741519585085,
+        "error_timing": 0.3783842237217783,
+        "id": 25,
+        "mapping": [
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 4.1952703272,
+        "measured_power": 0.93922,
+        "measured_timing": 446676,
+        "memory_map": [
+            64,
+            64,
+            64
+        ],
+        "mode": "CG",
+        "predicted_energy": 4.410389630461418,
+        "predicted_power": 0.9836692829500248,
+        "predicted_timing": 448366.1515151515,
+        "scenario_to_run_id": 18
+    },
+    {
+        "application": "MLP3",
+        "error_energy": 0.7517591810290349,
+        "error_power": 1.25221807609485,
+        "error_timing": -0.4942695622625189,
+        "id": 30,
+        "mapping": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 4.3247817855,
+        "measured_power": 0.89067,
+        "measured_timing": 485565,
+        "memory_map": [
+            64,
+            64
+        ],
+        "mode": "P",
+        "predicted_energy": 4.357293729631968,
+        "predicted_power": 0.901823130738354,
+        "predicted_timing": 483165.0,
+        "scenario_to_run_id": 30
+    },
+    {
+        "application": "MLP3",
+        "error_energy": 0.32956705822235866,
+        "error_power": 0.6564700853776606,
+        "error_timing": -0.3247710026767516,
+        "id": 37,
+        "mapping": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 4.3762695816,
+        "measured_power": 0.89558,
+        "measured_timing": 488652,
+        "memory_map": [
+            64,
+            64
+        ],
+        "mode": "CG",
+        "predicted_energy": 4.390692324519959,
+        "predicted_power": 0.9014592147906253,
+        "predicted_timing": 487065.0,
+        "scenario_to_run_id": 30
+    },
+    {
+        "application": "CNN",
+        "error_energy": -10.056045785937666,
+        "error_power": -10.436877426032769,
+        "error_timing": 0.42521031999594777,
+        "id": 46,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 160.43864551700003,
+        "measured_power": 1.1593,
+        "measured_timing": 13839269,
+        "memory_map": [
+            2048
+        ],
+        "mode": "P",
+        "predicted_energy": 144.30486186547228,
+        "predicted_power": 1.038305280000002,
+        "predicted_timing": 13898115.0,
+        "scenario_to_run_id": 46
+    },
+    {
+        "application": "CNN",
+        "error_energy": -7.969992833321622,
+        "error_power": -8.359657028914338,
+        "error_timing": 0.42521031999594777,
+        "id": 46,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 138.80786807,
+        "measured_power": 1.003,
+        "measured_timing": 13839269,
+        "memory_map": [
+            1024
+        ],
+        "mode": "P",
+        "predicted_energy": 127.74489093273448,
+        "predicted_power": 0.9191526399999891,
+        "predicted_timing": 13898115.0,
+        "scenario_to_run_id": 46
+    },
+    {
+        "application": "CNN",
+        "error_energy": -4.848732697593552,
+        "error_power": -5.251612618768274,
+        "error_timing": 0.42521031999594777,
+        "id": 46,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 125.55261622180002,
+        "measured_power": 0.90722,
+        "measured_timing": 13839269,
+        "memory_map": [
+            512
+        ],
+        "mode": "P",
+        "predicted_energy": 119.46490546636946,
+        "predicted_power": 0.8595763200000105,
+        "predicted_timing": 13898115.0,
+        "scenario_to_run_id": 46
+    },
+    {
+        "application": "CNN",
+        "error_energy": -2.86868902673446,
+        "error_power": -2.466790073928239,
+        "error_timing": -0.3970861986733906,
+        "id": 47,
+        "mapping": [
+            [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 69.22604686800001,
+        "measured_power": 1.1814,
+        "measured_timing": 5859662,
+        "memory_map": [
+            1024,
+            512,
+            512,
+            256,
+            256
+        ],
+        "mode": "P",
+        "predicted_energy": 67.24016685785564,
+        "predicted_power": 1.1522573420666118,
+        "predicted_timing": 5836394.090909091,
+        "scenario_to_run_id": 47
+    },
+    {
+        "application": "CNN",
+        "error_energy": -10.319911924077937,
+        "error_power": -10.711529043133876,
+        "error_timing": 0.43859763176493094,
+        "id": 52,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 161.00451048,
+        "measured_power": 1.163,
+        "measured_timing": 13843896,
+        "memory_map": [
+            2048
+        ],
+        "mode": "CG",
+        "predicted_energy": 144.38898680467116,
+        "predicted_power": 1.038424917228353,
+        "predicted_timing": 13904615.0,
+        "scenario_to_run_id": 46
+    },
+    {
+        "application": "CNN",
+        "error_energy": -7.945744400224982,
+        "error_power": -8.347729089895479,
+        "error_timing": 0.43859763176493094,
+        "id": 52,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 138.85427688,
+        "measured_power": 1.003,
+        "measured_timing": 13843896,
+        "memory_map": [
+            1024
+        ],
+        "mode": "CG",
+        "predicted_energy": 127.8212709503345,
+        "predicted_power": 0.9192722772283483,
+        "predicted_timing": 13904615.0,
+        "scenario_to_run_id": 46
+    },
+    {
+        "application": "CNN",
+        "error_energy": -4.628321753853128,
+        "error_power": -5.044793042804882,
+        "error_timing": 0.43859763176493094,
+        "id": 52,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 125.3384812152,
+        "measured_power": 0.90537,
+        "measured_timing": 13843896,
+        "memory_map": [
+            512
+        ],
+        "mode": "CG",
+        "predicted_energy": 119.53741302316779,
+        "predicted_power": 0.8596959572283575,
+        "predicted_timing": 13904615.0,
+        "scenario_to_run_id": 46
+    },
+    {
+        "application": "CNN",
+        "error_energy": -2.5566107502392845,
+        "error_power": -2.530100854320358,
+        "error_timing": -0.02588404514746222,
+        "id": 53,
+        "mapping": [
+            [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "measured_energy": 59.64977232900001,
+        "measured_power": 1.0353,
+        "measured_timing": 5761593,
+        "memory_map": [
+            1024,
+            512,
+            512,
+            256,
+            256
+        ],
+        "mode": "CG",
+        "predicted_energy": 58.124759837143536,
+        "predicted_power": 1.0091058658552214,
+        "predicted_timing": 5760101.666666667,
+        "scenario_to_run_id": 47
+    }
+]

@@ -1,0 +1,49 @@
+Highest comm. rate: 70.43003245636334
+For comm_amount = 0-9%:
+    - avg_time:   0.27969937087600993
+    - avg_power:  1.840220761402154
+    - avg_energy: 1.9240046424106492
+    - max_time:   0.5378072078942272
+    - max_power:  4.537818582738657
+    - max_energy: 4.697761949287354
+
+For comm_amount = 40-59%:
+    - avg_time:   0.6544826073871489
+    - avg_power:  3.786298547206066
+    - avg_energy: 3.9929595848349906
+    - max_time:   2.206108265900823
+    - max_power:  4.979059785226732
+    - max_energy: 6.845512763787537
+
+For comm_amount = 10-19%:
+    - avg_time:   0.5022903362688841
+    - avg_power:  1.5167649379119523
+    - avg_energy: 1.7414555340869131
+    - max_time:   1.1210165869354103
+    - max_power:  2.4554592725612885
+    - max_energy: 3.4074193302069253
+
+For comm_amount = 20-29%:
+    - avg_time:   0.7587577321809994
+    - avg_power:  2.564795121664386
+    - avg_energy: 2.1504527846415553
+    - max_time:   1.6397786315265745
+    - max_power:  5.695544119438383
+    - max_energy: 5.302408316758817
+
+For comm_amount = >60%:
+    - avg_time:   0.7284475521077398
+    - avg_power:  4.476258717850074
+    - avg_energy: 4.54061231150644
+    - max_time:   2.8546362799855265
+    - max_power:  7.0332433551115265
+    - max_energy: 7.179580384069199
+
+For comm_amount = 30-39%:
+    - avg_time:   0.7711427763006921
+    - avg_power:  3.6657196977233157
+    - avg_energy: 3.9831507050298285
+    - max_time:   1.4519011275533593
+    - max_power:  5.843783185402181
+    - max_energy: 7.2108383589949
+

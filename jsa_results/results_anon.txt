@@ -1,0 +1,150 @@
+Power management influence:
+- nb scenarii: 27.00
+- avg CG time: 2.85
+- max CG time: 22.13
+- avg CG power: 2.42
+- max CG power: 6.58
+- avg CG energy: 4.82
+- max CG energy: 20.78
+
+- avg polling time: 2.80
+- max polling time: 22.08
+- avg polling power: 4.08
+- max polling power: 18.59
+- avg polling energy: 3.49
+- max polling energy: 13.47
+
+Application influence:
+ - application: MLP1
+    - avg time: 4.82
+    - max time: 22.13
+    - avg power: 3.44
+    - max power: 18.59
+    - avg energy: 4.10
+    - max energy: 20.78
+ - application: MLP2
+    - avg time: 2.70
+    - max time: 12.97
+    - avg power: 2.96
+    - max power: 13.71
+    - avg energy: 4.32
+    - max energy: 13.06
+ - application: MLP3
+    - avg time: 2.68
+    - max time: 11.52
+    - avg power: 2.94
+    - max power: 16.66
+    - avg energy: 4.82
+    - max energy: 13.47
+ - application: CNN
+    - avg time: 0.82
+    - max time: 2.49
+    - avg power: 3.73
+    - max power: 6.92
+    - avg energy: 3.25
+    - max energy: 5.71
+For tile_nb = 1:
+    - avg_time:   1.2134719982200024
+    - avg_power:  1.7201398802263677
+    - avg_energy: 2.4493311340472483
+    - max_time:   4.93958527207946
+    - max_power:  4.537819926015292
+    - max_energy: 7.01821745065156
+
+For tile_nb = 2:
+    - avg_time:   0.388641524316862
+    - avg_power:  1.5816811845631253
+    - avg_energy: 1.6983659099668147
+    - max_time:   0.4936675189304223
+    - max_power:  2.2347167345212497
+    - max_energy: 2.676274285021229
+
+For tile_nb = 3:
+    - avg_time:   0.48948782760001835
+    - avg_power:  1.8641625500735906
+    - avg_energy: 2.0534974895876204
+    - max_time:   0.7809013833110219
+    - max_power:  4.7334867953973525
+    - max_energy: 4.782924589284882
+
+For tile_nb = 7:
+    - avg_time:   7.73564443437242
+    - avg_power:  7.863610260071273
+    - avg_energy: 8.898800417634309
+    - max_time:   22.134634940004066
+    - max_power:  18.594110985403635
+    - max_energy: 20.780266270883104
+
+For tile_nb = 4:
+    - avg_time:   1.26129112286811
+    - avg_power:  2.0303279740208273
+    - avg_energy: 2.7360776007667487
+    - max_time:   2.4234698523118388
+    - max_power:  5.156825670588435
+    - max_energy: 4.716387167908833
+
+For tile_nb = 6:
+    - avg_time:   10.513648377989607
+    - avg_power:  1.4088488456027457
+    - avg_energy: 10.088084187234882
+    - max_time:   11.51737934483621
+    - max_power:  1.8686096148798195
+    - max_energy: 12.357157347094834
+
+For tile_nb = 5:
+    - avg_time:   0.8640432311704247
+    - avg_power:  5.918103539489386
+    - avg_energy: 5.02995653866291
+    - max_time:   1.1254232752674131
+    - max_power:  6.917518544825597
+    - max_energy: 5.714251223983293
+
+Highest comm. rate: 70.43003245636334
+For comm_amount = 0-9%:
+    - avg_time:   0.6888277336428767
+    - avg_power:  1.7641958574140095
+    - avg_energy: 1.887824906699846
+    - max_time:   2.4880712770451323
+    - max_power:  4.537819926015292
+    - max_energy: 4.677439979266048
+
+For comm_amount = 40-59%:
+    - avg_time:   7.749335796827719
+    - avg_power:  4.961949588255732
+    - avg_energy: 7.859754476262457
+    - max_time:   22.134634940004066
+    - max_power:  12.270760032735689
+    - max_energy: 20.780266270883104
+
+For comm_amount = 10-19%:
+    - avg_time:   1.8359821905717086
+    - avg_power:  1.3327903726037622
+    - avg_energy: 2.9352950269466183
+    - max_time:   4.553309910599366
+    - max_power:  2.470800743055082
+    - max_energy: 6.911607438549752
+
+For comm_amount = 20-29%:
+    - avg_time:   6.787928796388532
+    - avg_power:  1.418045705135695
+    - avg_energy: 6.11894340193843
+    - max_time:   12.974277831872769
+    - max_power:  4.857463777181237
+    - max_energy: 13.058164456090518
+
+For comm_amount = >60%:
+    - avg_time:   2.3225583174001043
+    - avg_power:  7.838370828096859
+    - avg_energy: 5.6569134239744745
+    - max_time:   13.297434903540431
+    - max_power:  18.594110985403635
+    - max_energy: 13.467713295581607
+
+For comm_amount = 30-39%:
+    - avg_time:   1.4244860555683063
+    - avg_power:  3.1177021767996727
+    - avg_energy: 3.85830372910698
+    - max_time:   4.93958527207946
+    - max_power:  5.635578457869959
+    - max_energy: 7.01821745065156
+

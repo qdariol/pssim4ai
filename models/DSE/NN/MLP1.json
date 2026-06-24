@@ -1,0 +1,1 @@
+[{"layer_type":"d", "features_nb":10, "token_in":[784], "token_out":[10]},{"layer_type":"d", "features_nb":10, "token_in":[10], "token_out":[10]}]

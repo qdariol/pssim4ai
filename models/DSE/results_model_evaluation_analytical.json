@@ -1,0 +1,1532 @@
+[
+    {
+        "application": "MLP1",
+        "id": 1,
+        "id_CG": 8,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 5.08652709,
+            "measured_power": 1.291,
+            "measured_time": 393999,
+            "predicted_communication_rate": 4.877284014302115,
+            "predicted_energy": 5.078322041856002,
+            "predicted_power": 1.284136194225547,
+            "predicted_time": 395466,
+            "prediction_error_energy": -0.1613094356683643,
+            "prediction_error_power": -0.5316658229630521,
+            "prediction_error_time": 0.37233597039586397
+        },
+        "results_P": {
+            "measured_energy": 4.94427123,
+            "measured_power": 1.257,
+            "measured_time": 393339,
+            "predicted_communication_rate": 4.563559515534064,
+            "predicted_energy": 4.931488941056002,
+            "predicted_power": 1.2511198178067113,
+            "predicted_time": 394166,
+            "prediction_error_energy": -0.2585272601235943,
+            "prediction_error_power": -0.467794923889305,
+            "prediction_error_time": 0.21025120824530497
+        }
+    },
+    {
+        "application": "MLP1",
+        "id": 2,
+        "id_CG": 9,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                2
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 4.8582456800000005,
+            "measured_power": 1.256,
+            "measured_time": 386803,
+            "predicted_communication_rate": 51.54027344303522,
+            "predicted_energy": 4.7676085393920005,
+            "predicted_power": 1.2283313725287721,
+            "predicted_time": 388137,
+            "prediction_error_energy": -1.8656351814632803,
+            "prediction_error_power": -2.2029161999385263,
+            "prediction_error_time": 0.34487840063288033
+        },
+        "results_P": {
+            "measured_energy": 4.995750559999999,
+            "measured_power": 1.292,
+            "measured_time": 386668,
+            "predicted_communication_rate": 51.459023275194916,
+            "predicted_energy": 5.0925631965920015,
+            "predicted_power": 1.3142539482852333,
+            "predicted_time": 387487,
+            "prediction_error_energy": 1.9378997295654035,
+            "prediction_error_power": 1.722441817742516,
+            "prediction_error_time": 0.21180961444960533
+        }
+    },
+    {
+        "application": "MLP1",
+        "id": 3,
+        "id_CG": 10,
+        "mapping": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 5.715500040000001,
+            "measured_power": 1.306,
+            "measured_time": 437634,
+            "predicted_communication_rate": 14.484704984116453,
+            "predicted_energy": 5.592175578448002,
+            "predicted_power": 1.2845889946082039,
+            "predicted_time": 435328,
+            "prediction_error_energy": -2.1577195466522903,
+            "prediction_error_power": -1.6394337972278856,
+            "prediction_error_time": -0.5269243248924901
+        },
+        "results_P": {
+            "measured_energy": 5.422990680000001,
+            "measured_power": 1.262,
+            "measured_time": 429714,
+            "predicted_communication_rate": 12.679069465262726,
+            "predicted_energy": 5.3913647156480025,
+            "predicted_power": 1.2515413311840442,
+            "predicted_time": 430778,
+            "prediction_error_energy": -0.5831830850942614,
+            "prediction_error_power": -0.8287376240852462,
+            "prediction_error_time": 0.24760654761073644
+        }
+    },
+    {
+        "application": "MLP1",
+        "id": 4,
+        "id_CG": 11,
+        "mapping": [
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 2.3301935,
+            "measured_power": 1.355,
+            "measured_time": 171970,
+            "predicted_communication_rate": 28.074764975642484,
+            "predicted_energy": 2.3061042985760007,
+            "predicted_power": 1.349103932802921,
+            "predicted_time": 170936,
+            "prediction_error_energy": -1.033785452753142,
+            "prediction_error_power": -0.4351341104855287,
+            "prediction_error_time": -0.6012676629644705
+        },
+        "results_P": {
+            "measured_energy": 2.3094849600000003,
+            "measured_power": 1.356,
+            "measured_time": 170316,
+            "predicted_communication_rate": 26.32073346268446,
+            "predicted_energy": 2.3166571133760008,
+            "predicted_power": 1.3709165927212907,
+            "predicted_time": 168986,
+            "prediction_error_energy": 0.3105520711423261,
+            "prediction_error_power": 1.1000437110096346,
+            "prediction_error_time": -0.7809013833110219
+        }
+    },
+    {
+        "application": "MLP1",
+        "id": 5,
+        "id_CG": 12,
+        "mapping": [
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                4,
+                5,
+                6
+            ],
+            [
+                7
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 1.97694075,
+            "measured_power": 1.171,
+            "measured_time": 168825,
+            "predicted_communication_rate": 67.83880829199428,
+            "predicted_energy": 1.8704818179680014,
+            "predicted_power": 1.1256231866596869,
+            "predicted_time": 166173,
+            "prediction_error_energy": -5.385034024514828,
+            "prediction_error_power": -3.875048107627086,
+            "prediction_error_time": -1.5708573967125723
+        },
+        "results_P": {
+            "measured_energy": 2.6135442099999997,
+            "measured_power": 1.369,
+            "measured_time": 190909,
+            "predicted_communication_rate": 70.43003245636334,
+            "predicted_energy": 2.6873542601680005,
+            "predicted_power": 1.6235533793901757,
+            "predicted_time": 165523,
+            "prediction_error_energy": 2.8241362776871033,
+            "prediction_error_power": 18.594110985403635,
+            "prediction_error_time": -13.297434903540431
+        }
+    },
+    {
+        "application": "MLP1",
+        "id": 6,
+        "id_CG": 13,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 7.08821532,
+            "measured_power": 1.314,
+            "measured_time": 539438,
+            "predicted_communication_rate": 30.835056430672726,
+            "predicted_energy": 6.5907489554720025,
+            "predicted_power": 1.2852675071904403,
+            "predicted_time": 512792,
+            "prediction_error_energy": -7.01821745065156,
+            "prediction_error_power": -2.1866432883987676,
+            "prediction_error_time": -4.93958527207946
+        },
+        "results_P": {
+            "measured_energy": 6.3312228,
+            "measured_power": 1.26,
+            "measured_time": 502478,
+            "predicted_communication_rate": 25.49954308274752,
+            "predicted_energy": 6.299057689472002,
+            "predicted_power": 1.252193194499068,
+            "predicted_time": 503042,
+            "prediction_error_energy": -0.5080394663728831,
+            "prediction_error_power": -0.6195877381692012,
+            "prediction_error_time": 0.11224372012307007
+        }
+    },
+    {
+        "application": "MLP1",
+        "id": 7,
+        "id_CG": 14,
+        "mapping": [
+            [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 1.750452,
+            "measured_power": 1.424,
+            "measured_time": 122925,
+            "predicted_communication_rate": 55.238819516243154,
+            "predicted_energy": 1.3867034134560012,
+            "predicted_power": 1.4487686629779777,
+            "predicted_time": 95716,
+            "prediction_error_energy": -20.780266270883104,
+            "prediction_error_power": 1.739372400138887,
+            "prediction_error_time": -22.134634940004066
+        },
+        "results_P": {
+            "measured_energy": 1.73035978,
+            "measured_power": 1.438,
+            "measured_time": 120331,
+            "predicted_communication_rate": 55.607688745335054,
+            "predicted_energy": 1.5138084962560012,
+            "predicted_power": 1.6144535292707392,
+            "predicted_time": 93766,
+            "prediction_error_energy": -12.514812598337134,
+            "prediction_error_power": 12.270760032735689,
+            "prediction_error_time": -22.076605363538906
+        }
+    },
+    {
+        "application": "MLP2",
+        "id": 15,
+        "id_CG": 22,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 16.2094554,
+            "measured_power": 1.308,
+            "measured_time": 1239255,
+            "predicted_communication_rate": 1.7357554501254389,
+            "predicted_energy": 15.932079245488007,
+            "predicted_power": 1.283972206434497,
+            "predicted_time": 1240843,
+            "prediction_error_energy": -1.7111997144086213,
+            "prediction_error_power": -1.8369872756500847,
+            "prediction_error_time": 0.1281415043715781
+        },
+        "results_P": {
+            "measured_energy": 15.548463600000002,
+            "measured_power": 1.256,
+            "measured_time": 1237935,
+            "predicted_communication_rate": 1.581088923740791,
+            "predicted_energy": 15.498107074288006,
+            "predicted_power": 1.2509641328418197,
+            "predicted_time": 1238893,
+            "prediction_error_energy": -0.3238681776377928,
+            "prediction_error_power": -0.40094483743473514,
+            "prediction_error_time": 0.07738693873264751
+        }
+    },
+    {
+        "application": "MLP2",
+        "id": 16,
+        "id_CG": 23,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 14.60480448,
+            "measured_power": 1.216,
+            "measured_time": 1201053,
+            "predicted_communication_rate": 66.28640513097318,
+            "predicted_energy": 14.088337040816008,
+            "predicted_power": 1.1716837428458566,
+            "predicted_time": 1202401,
+            "prediction_error_energy": -3.536284514395586,
+            "prediction_error_power": -3.6444290422815246,
+            "prediction_error_time": 0.11223484725486718
+        },
+        "results_P": {
+            "measured_energy": 15.7955696,
+            "measured_power": 1.315,
+            "measured_time": 1201184,
+            "predicted_communication_rate": 66.22479273595845,
+            "predicted_energy": 16.551059782416008,
+            "predicted_power": 1.3772453513594751,
+            "predicted_time": 1201751,
+            "prediction_error_energy": 4.782924589284882,
+            "prediction_error_power": 4.7334867953973525,
+            "prediction_error_time": 0.047203425953059645
+        }
+    },
+    {
+        "application": "MLP2",
+        "id": 17,
+        "id_CG": 24,
+        "mapping": [
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 16.9673296,
+            "measured_power": 1.31,
+            "measured_time": 1295216,
+            "predicted_communication_rate": 5.784398024432696,
+            "predicted_energy": 16.504943781728002,
+            "predicted_power": 1.284148610207091,
+            "predicted_time": 1285283,
+            "prediction_error_energy": -2.725153746479924,
+            "prediction_error_power": -1.9733885338098573,
+            "prediction_error_time": -0.7668991118083779
+        },
+        "results_P": {
+            "measured_energy": 16.18352628,
+            "measured_power": 1.263,
+            "measured_time": 1281356,
+            "predicted_communication_rate": 4.6835273860986995,
+            "predicted_energy": 15.999153787728003,
+            "predicted_power": 1.251123434369084,
+            "predicted_time": 1278783,
+            "prediction_error_energy": -1.139260313741681,
+            "prediction_error_power": -0.9403456556544642,
+            "prediction_error_time": -0.20080289942841803
+        }
+    },
+    {
+        "application": "MLP2",
+        "id": 18,
+        "id_CG": 25,
+        "mapping": [
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 6.28026456,
+            "measured_power": 1.406,
+            "measured_time": 446676,
+            "predicted_communication_rate": 9.330331615357641,
+            "predicted_energy": 6.156415074976001,
+            "predicted_power": 1.389048348298215,
+            "predicted_time": 443211,
+            "prediction_error_energy": -1.972042480707192,
+            "prediction_error_power": -1.2056651281497097,
+            "prediction_error_time": -0.7757300593718937
+        },
+        "results_P": {
+            "measured_energy": 6.06957102,
+            "measured_power": 1.369,
+            "measured_time": 443358,
+            "predicted_communication_rate": 8.078805092210958,
+            "predicted_energy": 6.0279704333760025,
+            "predicted_power": 1.3680934959354174,
+            "predicted_time": 440611,
+            "prediction_error_energy": -0.6853958292425951,
+            "prediction_error_power": -0.0662165131177934,
+            "prediction_error_time": -0.6195895867447976
+        }
+    },
+    {
+        "application": "MLP2",
+        "id": 19,
+        "id_CG": 26,
+        "mapping": [
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                4,
+                5,
+                6
+            ],
+            [
+                4,
+                5,
+                6
+            ],
+            [
+                7
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 5.276458880000001,
+            "measured_power": 1.232,
+            "measured_time": 428284,
+            "predicted_communication_rate": 59.17328376171947,
+            "predicted_energy": 4.983177692831999,
+            "predicted_power": 1.1710602835617951,
+            "predicted_time": 425527,
+            "prediction_error_energy": -5.558295702439008,
+            "prediction_error_power": -4.946405555049094,
+            "prediction_error_time": -0.6437317294131931
+        },
+        "results_P": {
+            "measured_energy": 6.31185225,
+            "measured_power": 1.425,
+            "measured_time": 442937,
+            "predicted_communication_rate": 60.12139721101882,
+            "predicted_energy": 6.884870295632002,
+            "predicted_power": 1.6204384552781164,
+            "predicted_time": 424877,
+            "prediction_error_energy": 9.078445168484443,
+            "prediction_error_power": 13.714979317762548,
+            "prediction_error_time": -4.077329281590836
+        }
+    },
+    {
+        "application": "MLP2",
+        "id": 20,
+        "id_CG": 27,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 18.9298995,
+            "measured_power": 1.317,
+            "measured_time": 1437350,
+            "predicted_communication_rate": 14.942555180700717,
+            "predicted_energy": 17.62153915804801,
+            "predicted_power": 1.2844595542139645,
+            "predicted_time": 1371903,
+            "prediction_error_energy": -6.911607438549752,
+            "prediction_error_power": -2.470800743055082,
+            "prediction_error_time": -4.553309910599366
+        },
+        "results_P": {
+            "measured_energy": 17.210069,
+            "measured_power": 1.258,
+            "measured_time": 1368050,
+            "predicted_communication_rate": 10.522756792713954,
+            "predicted_energy": 16.989188639248006,
+            "predicted_power": 1.2514106582887639,
+            "predicted_time": 1357603,
+            "prediction_error_energy": -1.2834368110435506,
+            "prediction_error_power": -0.5237950485879295,
+            "prediction_error_time": -0.7636416797631665
+        }
+    },
+    {
+        "application": "MLP2",
+        "id": 21,
+        "id_CG": 28,
+        "mapping": [
+            [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 3.8623415999999997,
+            "measured_power": 1.567,
+            "measured_time": 246480,
+            "predicted_communication_rate": 28.485608725393142,
+            "predicted_energy": 3.357990682016002,
+            "predicted_power": 1.5654895231332262,
+            "predicted_time": 214501,
+            "prediction_error_energy": -13.058164456090518,
+            "prediction_error_power": -0.09639290789877132,
+            "prediction_error_time": -12.974277831872769
+        },
+        "results_P": {
+            "measured_energy": 3.6874135,
+            "measured_power": 1.531,
+            "measured_time": 240850,
+            "predicted_communication_rate": 27.66161474092624,
+            "predicted_energy": 3.4017903592160024,
+            "predicted_power": 1.6053677704286446,
+            "predicted_time": 211901,
+            "prediction_error_energy": -7.745893992740373,
+            "prediction_error_power": 4.857463777181237,
+            "prediction_error_time": -12.019514220469171
+        }
+    },
+    {
+        "application": "MLP3",
+        "id": 29,
+        "id_CG": 36,
+        "mapping": [
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 12.82221981,
+            "measured_power": 1.317,
+            "measured_time": 973593,
+            "predicted_communication_rate": 4.224131275124949,
+            "predicted_energy": 12.441334249744003,
+            "predicted_power": 1.2840891427398948,
+            "predicted_time": 968884,
+            "prediction_error_energy": -2.970511860660399,
+            "prediction_error_power": -2.4989261397194475,
+            "prediction_error_time": -0.48367233535984744
+        },
+        "results_P": {
+            "measured_energy": 12.26147124,
+            "measured_power": 1.268,
+            "measured_time": 966993,
+            "predicted_communication_rate": 3.481409245580546,
+            "predicted_energy": 12.064449906944004,
+            "predicted_power": 1.2510654925517513,
+            "predicted_time": 964334,
+            "prediction_error_energy": -1.6068327299358933,
+            "prediction_error_power": -1.335528978568514,
+            "prediction_error_time": -0.2749761373660409
+        }
+    },
+    {
+        "application": "MLP3",
+        "id": 30,
+        "id_CG": 37,
+        "mapping": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 6.704305440000001,
+            "measured_power": 1.372,
+            "measured_time": 488652,
+            "predicted_communication_rate": 4.490994015172513,
+            "predicted_energy": 6.524879837520001,
+            "predicted_power": 1.3413396864023686,
+            "predicted_time": 486445,
+            "prediction_error_energy": -2.676274285021229,
+            "prediction_error_power": -2.2347167345212497,
+            "prediction_error_time": -0.45165066345783916
+        },
+        "results_P": {
+            "measured_energy": 6.419169300000001,
+            "measured_power": 1.322,
+            "measured_time": 485565,
+            "predicted_communication_rate": 3.7207392919603035,
+            "predicted_energy": 6.334906699120003,
+            "predicted_power": 1.30928431607643,
+            "predicted_time": 483845,
+            "prediction_error_energy": -1.3126714212070716,
+            "prediction_error_power": -0.961852036578671,
+            "prediction_error_time": -0.3542265196214719
+        }
+    },
+    {
+        "application": "MLP3",
+        "id": 31,
+        "id_CG": 38,
+        "mapping": [
+            [
+                1,
+                2
+            ],
+            [
+                3,
+                4
+            ],
+            [
+                5,
+                6
+            ],
+            [
+                7
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 4.90667374,
+            "measured_power": 1.163,
+            "measured_time": 421898,
+            "predicted_communication_rate": 68.66453323857654,
+            "predicted_energy": 4.587874543216003,
+            "predicted_power": 1.086527810050421,
+            "predicted_time": 422251,
+            "prediction_error_energy": -6.497256872514138,
+            "prediction_error_power": -6.575424759207141,
+            "prediction_error_time": 0.08366951253620543
+        },
+        "results_P": {
+            "measured_energy": 6.033777119999999,
+            "measured_power": 1.392,
+            "measured_time": 433461,
+            "predicted_communication_rate": 69.59758269369624,
+            "predicted_energy": 6.846388923416,
+            "predicted_power": 1.6239024393718233,
+            "predicted_time": 421601,
+            "prediction_error_energy": 13.467713295581607,
+            "prediction_error_power": 16.659658000849383,
+            "prediction_error_time": -2.736116974768203
+        }
+    },
+    {
+        "application": "MLP3",
+        "id": 32,
+        "id_CG": 39,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 13.445694660000001,
+            "measured_power": 1.311,
+            "measured_time": 1025606,
+            "predicted_communication_rate": 8.89755385062698,
+            "predicted_energy": 12.909343261840004,
+            "predicted_power": 1.2842689702285144,
+            "predicted_time": 1005190,
+            "prediction_error_energy": -3.9890196209468076,
+            "prediction_error_power": -2.038980150380287,
+            "prediction_error_time": -1.990627979945515
+        },
+        "results_P": {
+            "measured_energy": 12.633278059999999,
+            "measured_power": 1.261,
+            "measured_time": 1001846,
+            "predicted_communication_rate": 6.609611243022787,
+            "predicted_energy": 12.471489976640003,
+            "predicted_power": 1.2512280009470877,
+            "predicted_time": 996740,
+            "prediction_error_energy": -1.2806500624114012,
+            "prediction_error_power": -0.7749404482880373,
+            "prediction_error_time": -0.5096591691737054
+        }
+    },
+    {
+        "application": "MLP3",
+        "id": 33,
+        "id_CG": 40,
+        "mapping": [
+            [
+                1,
+                2,
+                3,
+                4
+            ],
+            [
+                1,
+                2,
+                3,
+                4
+            ],
+            [
+                1,
+                2,
+                3,
+                4
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 4.00041205,
+            "measured_power": 1.457,
+            "measured_time": 274565,
+            "predicted_communication_rate": 14.317152178164818,
+            "predicted_energy": 3.8326323401759996,
+            "predicted_power": 1.430561768712744,
+            "predicted_time": 267911,
+            "prediction_error_energy": -4.194060704921654,
+            "prediction_error_power": -1.8145663203332858,
+            "prediction_error_time": -2.4234698523118388
+        },
+        "results_P": {
+            "measured_energy": 3.83750504,
+            "measured_power": 1.418,
+            "measured_time": 270628,
+            "predicted_communication_rate": 13.777373131772926,
+            "predicted_energy": 3.7871874473760005,
+            "predicted_power": 1.4274521023915332,
+            "predicted_time": 265311,
+            "prediction_error_energy": -1.3112059033021979,
+            "prediction_error_power": 0.6665798583591868,
+            "prediction_error_time": -1.9646895369289208
+        }
+    },
+    {
+        "application": "MLP3",
+        "id": 34,
+        "id_CG": 41,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 14.338359559999999,
+            "measured_power": 1.316,
+            "measured_time": 1089541,
+            "predicted_communication_rate": 14.070700142441595,
+            "predicted_energy": 13.377352273936005,
+            "predicted_power": 1.2844362603347497,
+            "predicted_time": 1041496,
+            "prediction_error_energy": -6.702351702386757,
+            "prediction_error_power": -2.3984604608852877,
+            "prediction_error_time": -4.409655074935225
+        },
+        "results_P": {
+            "measured_energy": 13.048426769999999,
+            "measured_power": 1.257,
+            "measured_time": 1038061,
+            "predicted_communication_rate": 9.652364997340518,
+            "predicted_energy": 12.878530046336003,
+            "predicted_power": 1.2513802751345293,
+            "predicted_time": 1029146,
+            "prediction_error_energy": -1.3020475698619098,
+            "prediction_error_power": -0.4470743727502448,
+            "prediction_error_time": -0.8588127287317412
+        }
+    },
+    {
+        "application": "MLP3",
+        "id": 35,
+        "id_CG": 42,
+        "mapping": [
+            [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 3.1572104999999997,
+            "measured_power": 1.579,
+            "measured_time": 199950,
+            "predicted_communication_rate": 23.63142884969407,
+            "predicted_energy": 2.767069030736,
+            "predicted_power": 1.5640138992748176,
+            "predicted_time": 176921,
+            "prediction_error_energy": -12.357157347094834,
+            "prediction_error_power": -0.949088076325672,
+            "prediction_error_time": -11.51737934483621
+        },
+        "results_P": {
+            "measured_energy": 2.92043756,
+            "measured_power": 1.516,
+            "measured_time": 192641,
+            "predicted_communication_rate": 19.786099131830973,
+            "predicted_energy": 2.6920882251360005,
+            "predicted_power": 1.544328121761578,
+            "predicted_time": 174321,
+            "prediction_error_energy": -7.81901102737493,
+            "prediction_error_power": 1.8686096148798195,
+            "prediction_error_time": -9.509917411143007
+        }
+    },
+    {
+        "application": "CNN",
+        "id": 43,
+        "id_CG": 49,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 186.05640549999998,
+            "measured_power": 1.345,
+            "measured_time": 13833190,
+            "predicted_communication_rate": 1.6233728382442507,
+            "predicted_energy": 177.35372880515763,
+            "predicted_power": 1.2839663219950943,
+            "predicted_time": 13812958,
+            "prediction_error_energy": -4.677439979266048,
+            "prediction_error_power": -4.537819926015292,
+            "prediction_error_time": -0.14625693712007135
+        },
+        "results_P": {
+            "measured_energy": 180.34514719,
+            "measured_power": 1.3039,
+            "measured_time": 13831210,
+            "predicted_communication_rate": 1.6048480624140091,
+            "predicted_energy": 172.76279402320213,
+            "predicted_power": 1.2509653552046018,
+            "predicted_time": 13810358,
+            "prediction_error_energy": -4.204356637780553,
+            "prediction_error_power": -4.059716603681127,
+            "prediction_error_time": -0.15076049022464413
+        }
+    },
+    {
+        "application": "CNN",
+        "id": 44,
+        "id_CG": 50,
+        "mapping": [
+            [
+                2
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 126.387878496,
+            "measured_power": 1.2512,
+            "measured_time": 10101333,
+            "predicted_communication_rate": 32.90330373631239,
+            "predicted_energy": 128.7010348740496,
+            "predicted_power": 1.2678405988853494,
+            "predicted_time": 10151200,
+            "prediction_error_energy": 1.830204292987496,
+            "prediction_error_power": 1.3299711385349504,
+            "prediction_error_time": 0.4936675189304223
+        },
+        "results_P": {
+            "measured_energy": 133.952106027,
+            "measured_power": 1.3261,
+            "measured_time": 10101207,
+            "predicted_communication_rate": 32.898974455267144,
+            "predicted_energy": 133.1919136939438,
+            "predicted_power": 1.3123325732831868,
+            "predicted_time": 10149250,
+            "prediction_error_energy": -0.567510549556408,
+            "prediction_error_power": -1.0381891800628384,
+            "prediction_error_time": 0.4756164288089533
+        }
+    },
+    {
+        "application": "CNN",
+        "id": 45,
+        "id_CG": 51,
+        "mapping": [
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                1
+            ],
+            [
+                4
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 115.832547394,
+            "measured_power": 1.1467,
+            "measured_time": 10101382,
+            "predicted_communication_rate": 66.43742357045198,
+            "predicted_energy": 116.66961897388957,
+            "predicted_power": 1.1522424603166832,
+            "predicted_time": 10125440,
+            "prediction_error_energy": 0.7226566269343108,
+            "prediction_error_power": 0.48334004680240267,
+            "prediction_error_time": 0.23816543122515316
+        },
+        "results_P": {
+            "measured_energy": 139.11002475,
+            "measured_power": 1.3682,
+            "measured_time": 10167375,
+            "predicted_communication_rate": 66.49408220045773,
+            "predicted_energy": 145.6709921065838,
+            "predicted_power": 1.438755688824991,
+            "predicted_time": 10124790,
+            "prediction_error_energy": 4.716387167908833,
+            "prediction_error_power": 5.156825670588435,
+            "prediction_error_time": -0.41883967100652825
+        }
+    },
+    {
+        "application": "CNN",
+        "id": 46,
+        "id_CG": 52,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 180.49671604800002,
+            "measured_power": 1.3038,
+            "measured_time": 13843896,
+            "predicted_communication_rate": 2.2919009264190344,
+            "predicted_energy": 182.1928041089016,
+            "predicted_power": 1.2841021459383322,
+            "predicted_time": 14188342,
+            "prediction_error_energy": 0.9396780717331953,
+            "prediction_error_power": -1.510803348801036,
+            "prediction_error_time": 2.4880712770451323
+        },
+        "results_P": {
+            "measured_energy": 180.021211152,
+            "measured_power": 1.3008,
+            "measured_time": 13839269,
+            "predicted_communication_rate": 2.2462038916788356,
+            "predicted_energy": 177.44533396534618,
+            "predicted_power": 1.2511003129762766,
+            "predicted_time": 14183142,
+            "prediction_error_energy": -1.430874267632217,
+            "prediction_error_power": -3.8207016469652064,
+            "prediction_error_time": 2.484762742887648
+        }
+    },
+    {
+        "application": "CNN",
+        "id": 47,
+        "id_CG": 53,
+        "mapping": [
+            [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 73.95004615500001,
+            "measured_power": 1.2835,
+            "measured_time": 5761593,
+            "predicted_communication_rate": 51.526632563996294,
+            "predicted_energy": 70.73642720871298,
+            "predicted_power": 1.220368632664144,
+            "predicted_time": 5796316,
+            "prediction_error_energy": -4.345661853342527,
+            "prediction_error_power": -4.9186885341531745,
+            "prediction_error_time": 0.6026631870734361
+        },
+        "results_P": {
+            "measured_energy": 82.029408338,
+            "measured_power": 1.3999,
+            "measured_time": 5859662,
+            "predicted_communication_rate": 52.154320887649426,
+            "predicted_energy": 86.71677480798041,
+            "predicted_power": 1.4967383421090135,
+            "predicted_time": 5793716,
+            "prediction_error_energy": 5.714251223983293,
+            "prediction_error_power": 6.917518544825597,
+            "prediction_error_time": -1.1254232752674131
+        }
+    },
+    {
+        "application": "CNN",
+        "id": 48,
+        "id_CG": 54,
+        "mapping": [
+            [
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            [
+                7
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 45.35309118,
+            "measured_power": 1.398,
+            "measured_time": 3244141,
+            "predicted_communication_rate": 36.84407621660901,
+            "predicted_energy": 43.38639437088102,
+            "predicted_power": 1.3225341591085367,
+            "predicted_time": 3280550,
+            "prediction_error_energy": -4.336411825411056,
+            "prediction_error_power": -5.398128819131849,
+            "prediction_error_time": 1.1223001712934177
+        },
+        "results_P": {
+            "measured_energy": 50.152802191999996,
+            "measured_power": 1.5277,
+            "measured_time": 3282896,
+            "predicted_communication_rate": 37.434754667336534,
+            "predicted_energy": 52.93085343556004,
+            "predicted_power": 1.6137947321008794,
+            "predicted_time": 3279900,
+            "prediction_error_energy": 5.539174526928382,
+            "prediction_error_power": 5.635578457869959,
+            "prediction_error_time": -0.09126088672927805
+        }
+    }
+]

@@ -1,0 +1,45 @@
+Power management influence:
+- nb scenarii: 27.00
+- avg CG time: 0.61
+- max CG time: 2.21
+- avg CG power: 2.97
+- max CG power: 6.79
+- avg CG energy: 2.96
+- max CG energy: 6.85
+
+- avg polling time: 0.49
+- max polling time: 2.85
+- avg polling power: 2.54
+- max polling power: 7.03
+- avg polling energy: 2.70
+- max polling energy: 7.21
+
+Application influence:
+ - application: MLP1
+    - avg time: 0.83
+    - max time: 2.85
+    - avg power: 2.19
+    - max power: 4.88
+    - avg energy: 2.08
+    - max energy: 6.85
+ - application: MLP2
+    - avg time: 0.31
+    - max time: 1.13
+    - avg power: 2.46
+    - max power: 4.94
+    - avg energy: 2.54
+    - max energy: 5.30
+ - application: MLP3
+    - avg time: 0.62
+    - max time: 1.64
+    - avg power: 2.58
+    - max power: 6.79
+    - avg energy: 2.68
+    - max energy: 6.22
+ - application: CNN
+    - avg time: 0.42
+    - max time: 1.45
+    - avg power: 3.96
+    - max power: 7.03
+    - avg energy: 4.20
+    - max energy: 7.21

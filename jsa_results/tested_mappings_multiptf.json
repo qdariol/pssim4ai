@@ -1,0 +1,471 @@
+[
+    {
+        "application": "MLP1",
+        "id": 6,
+        "id_CG": 13,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            2048
+        ],
+        "results_CG": {
+            "measured_energy": 6.10104378,
+            "measured_power": 1.131,
+            "measured_time": 539438
+        },
+        "results_P": {
+            "measured_energy": 5.747845841999999,
+            "measured_power": 1.1439,
+            "measured_time": 502478
+        }
+    },
+    {
+        "application": "MLP1",
+        "id": 6,
+        "id_CG": 13,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024
+        ],
+        "results_CG": {
+            "measured_energy": 5.351764397999999,
+            "measured_power": 0.9921,
+            "measured_time": 539438
+        },
+        "results_P": {
+            "measured_energy": 4.9776978114,
+            "measured_power": 0.99063,
+            "measured_time": 502478
+        }
+    },
+    {
+        "application": "MLP1",
+        "id": 6,
+        "id_CG": 13,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            512
+        ],
+        "results_CG": {
+            "measured_energy": 4.8672951302,
+            "measured_power": 0.90229,
+            "measured_time": 539438
+        },
+        "results_P": {
+            "measured_energy": 4.5267238064,
+            "measured_power": 0.90088,
+            "measured_time": 502478
+        }
+    },
+    {
+        "application": "MLP2",
+        "id": 15,
+        "id_CG": 22,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            2048
+        ],
+        "results_CG": {
+            "measured_energy": 14.01597405,
+            "measured_power": 1.131,
+            "measured_time": 1239255
+        },
+        "results_P": {
+            "measured_energy": 14.072845080000002,
+            "measured_power": 1.1368,
+            "measured_time": 1237935
+        }
+    },
+    {
+        "application": "MLP2",
+        "id": 15,
+        "id_CG": 22,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024
+        ],
+        "results_CG": {
+            "measured_energy": 12.2682527235,
+            "measured_power": 0.98997,
+            "measured_time": 1239255
+        },
+        "results_P": {
+            "measured_energy": 12.2514713145,
+            "measured_power": 0.98967,
+            "measured_time": 1237935
+        }
+    },
+    {
+        "application": "MLP2",
+        "id": 15,
+        "id_CG": 22,
+        "mapping": [
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            512
+        ],
+        "results_CG": {
+            "measured_energy": 11.1759733665,
+            "measured_power": 0.90183,
+            "measured_time": 1239255
+        },
+        "results_P": {
+            "measured_energy": 11.120493898500003,
+            "measured_power": 0.89831,
+            "measured_time": 1237935
+        }
+    },
+    {
+        "application": "CNN",
+        "id": 46,
+        "id_CG": 52,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            2048
+        ],
+        "results_CG": {
+            "measured_energy": 161.00451048,
+            "measured_power": 1.163,
+            "measured_time": 13843896
+        },
+        "results_P": {
+            "measured_energy": 160.438645517,
+            "measured_power": 1.1593,
+            "measured_time": 13839269
+        }
+    },
+    {
+        "application": "CNN",
+        "id": 46,
+        "id_CG": 52,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024
+        ],
+        "results_CG": {
+            "measured_energy": 138.85427688,
+            "measured_power": 1.003,
+            "measured_time": 13843896
+        },
+        "results_P": {
+            "measured_energy": 138.80786806999998,
+            "measured_power": 1.003,
+            "measured_time": 13839269
+        }
+    },
+    {
+        "application": "CNN",
+        "id": 46,
+        "id_CG": 52,
+        "mapping": [
+            [
+                1,
+                1,
+                1,
+                1,
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            512
+        ],
+        "results_CG": {
+            "measured_energy": 125.3384812152,
+            "measured_power": 0.90537,
+            "measured_time": 13843896
+        },
+        "results_P": {
+            "measured_energy": 125.5526162218,
+            "measured_power": 0.90722,
+            "measured_time": 13839269
+        }
+    },
+    {
+        "application": "MLP1",
+        "id": 4,
+        "id_CG": 11,
+        "mapping": [
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            64,
+            64,
+            64
+        ],
+        "results_CG": {
+            "measured_energy": 1.5738522430000002,
+            "measured_power": 0.91519,
+            "measured_time": 171970
+        },
+        "results_P": {
+            "measured_energy": 1.601992296,
+            "measured_power": 0.9406,
+            "measured_time": 170316
+        }
+    },
+    {
+        "application": "MLP2",
+        "id": 18,
+        "id_CG": 25,
+        "mapping": [
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1,
+                2,
+                3
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            64,
+            64,
+            64
+        ],
+        "results_CG": {
+            "measured_energy": 4.1952703272,
+            "measured_power": 0.93922,
+            "measured_time": 446676
+        },
+        "results_P": {
+            "measured_energy": 4.182196014,
+            "measured_power": 0.9433,
+            "measured_time": 443358
+        }
+    },
+    {
+        "application": "CNN",
+        "id": 47,
+        "id_CG": 53,
+        "mapping": [
+            [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            1024,
+            512,
+            512,
+            256,
+            256
+        ],
+        "results_CG": {
+            "measured_energy": 59.649772329,
+            "measured_power": 1.0353,
+            "measured_time": 5761593
+        },
+        "results_P": {
+            "measured_energy": 69.22604686800001,
+            "measured_power": 1.1814,
+            "measured_time": 5859662
+        }
+    },
+    {
+        "application": "MLP3",
+        "id": 30,
+        "id_CG": 37,
+        "mapping": [
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1,
+                2
+            ],
+            [
+                1
+            ]
+        ],
+        "memory-map": [
+            64,
+            64
+        ],
+        "results_CG": {
+            "measured_energy": 4.3762695816,
+            "measured_power": 0.89558,
+            "measured_time": 488652
+        },
+        "results_P": {
+            "measured_energy": 4.3247817855,
+            "measured_power": 0.89067,
+            "measured_time": 485565
+        }
+    }
+]

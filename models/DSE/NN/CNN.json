@@ -1,0 +1,1 @@
+[{"layer_type":"c", "features_nb":5, "token_in":[32,32], "token_out":[5,28,28],"filter_dim":[5,5], "token_process_in":[28,28]},{"layer_type":"p", "token_in":[5,28,28], "token_out":[5,14,14]},{"layer_type":"d", "features_nb":64, "token_in":[980], "token_out":[64]},{"layer_type":"d", "features_nb":10, "token_in":[64], "token_out":[10]}]

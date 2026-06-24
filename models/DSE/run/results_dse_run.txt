@@ -1,0 +1,313 @@
+qdariol@qdariol:~/workspace/pssim4ai/models/DSE$ python tester.py
+Currently processing the MLP1
+Periodic save done at: 94s. 28 mappings saved.
+Periodic save done at: 143s. 41 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 87s. 26 mappings saved.
+Periodic save done at: 130s. 38 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 78s. 24 mappings saved.
+Periodic save done at: 153s. 45 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 70s. 22 mappings saved.
+Periodic save done at: 136s. 41 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 62s. 20 mappings saved.
+Periodic save done at: 121s. 37 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 78s. 25 mappings saved.
+Periodic save done at: 126s. 39 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 70s. 23 mappings saved.
+Periodic save done at: 134s. 42 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 70s. 23 mappings saved.
+Periodic save done at: 126s. 40 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 62s. 21 mappings saved.
+Periodic save done at: 127s. 41 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 61s. 21 mappings saved.
+Periodic save done at: 120s. 39 mappings saved.
+GetMappingsBBSimu: Exploration terminated - no new branches can be generated. Time: 146s.
+First phase exploration done for one of the clusterings.
+GetMappingsBBSimu: Exploration terminated - no new branches can be generated. Time: 28s.
+First phase exploration done for one of the clusterings.
+GetMappingsBBSimu: Exploration terminated - no new branches can be generated. Time: 3s.
+First phase exploration done for one of the clusterings.
+GetMappingsBBSimu: Exploration terminated - no new branches can be generated. Time: 3s.
+First phase exploration done for one of the clusterings.
+First phase entirely completed. Now performing additional exploration.
+Periodic save done at: 187s. 13 mappings saved.
+Periodic save done at: 369s. 13 mappings saved.
+Periodic save done at: 726s. 13 mappings saved.
+Periodic save done at: 1450s. 13 mappings saved.
+Periodic save done at: 2881s. 13 mappings saved.
+Second phase entirely completed. Results stored in the run folder.
+Currently processing the MLP2
+Periodic save done at: 83s. 22 mappings saved.
+Periodic save done at: 167s. 42 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 78s. 21 mappings saved.
+Periodic save done at: 156s. 40 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 72s. 20 mappings saved.
+Periodic save done at: 145s. 38 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 67s. 19 mappings saved.
+Periodic save done at: 134s. 36 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 60s. 18 mappings saved.
+Periodic save done at: 121s. 34 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 116s. 32 mappings saved.
+Periodic save done at: 173s. 47 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 102s. 30 mappings saved.
+Periodic save done at: 153s. 44 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 91s. 28 mappings saved.
+Periodic save done at: 138s. 41 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 82s. 26 mappings saved.
+Periodic save done at: 123s. 38 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 74s. 24 mappings saved.
+Periodic save done at: 146s. 45 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 67s. 22 mappings saved.
+Periodic save done at: 136s. 42 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 84s. 27 mappings saved.
+Periodic save done at: 138s. 43 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 74s. 24 mappings saved.
+Periodic save done at: 125s. 39 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 63s. 21 mappings saved.
+Periodic save done at: 130s. 41 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 63s. 21 mappings saved.
+Periodic save done at: 120s. 38 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 62s. 21 mappings saved.
+Periodic save done at: 126s. 40 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 63s. 21 mappings saved.
+GetMappingsBBSimu: Exploration terminated - no new branches can be generated. Time: 106s.
+First phase exploration done for one of the clusterings.
+GetMappingsBBSimu: Exploration terminated - no new branches can be generated. Time: 26s.
+First phase exploration done for one of the clusterings.
+GetMappingsBBSimu: Exploration terminated - no new branches can be generated. Time: 16s.
+First phase exploration done for one of the clusterings.
+First phase entirely completed. Now performing additional exploration.
+Periodic save done at: 183s. 19 mappings saved.
+Periodic save done at: 371s. 19 mappings saved.
+Periodic save done at: 723s. 19 mappings saved.
+Periodic save done at: 1443s. 19 mappings saved.
+Second phase entirely completed. Results stored in the run folder.
+Currently processing the MLP3
+Periodic save done at: 83s. 22 mappings saved.
+Periodic save done at: 168s. 42 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 78s. 21 mappings saved.
+Periodic save done at: 156s. 40 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 71s. 20 mappings saved.
+Periodic save done at: 143s. 38 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 65s. 19 mappings saved.
+Periodic save done at: 131s. 36 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 119s. 34 mappings saved.
+Periodic save done at: 178s. 50 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 107s. 32 mappings saved.
+Periodic save done at: 161s. 47 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 96s. 30 mappings saved.
+Periodic save done at: 145s. 44 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 86s. 27 mappings saved.
+Periodic save done at: 127s. 39 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 79s. 25 mappings saved.
+Periodic save done at: 154s. 47 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 75s. 24 mappings saved.
+Periodic save done at: 150s. 46 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 65s. 21 mappings saved.
+Periodic save done at: 122s. 38 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 84s. 27 mappings saved.
+Periodic save done at: 138s. 43 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 77s. 25 mappings saved.
+Periodic save done at: 138s. 43 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 66s. 22 mappings saved.
+Periodic save done at: 127s. 40 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 69s. 23 mappings saved.
+Periodic save done at: 120s. 38 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 62s. 21 mappings saved.
+Periodic save done at: 125s. 40 mappings saved.
+First phase exploration done for one of the clusterings.
+Periodic save done at: 62s. 21 mappings saved.
+GetMappingsBBSimu: Exploration terminated - no new branches can be generated. Time: 105s.
+First phase exploration done for one of the clusterings.
+GetMappingsBBSimu: Exploration terminated - no new branches can be generated. Time: 25s.
+First phase exploration done for one of the clusterings.
+GetMappingsBBSimu: Exploration terminated - no new branches can be generated. Time: 16s.
+First phase exploration done for one of the clusterings.
+First phase entirely completed. Now performing additional exploration.
+Periodic save done at: 188s. 19 mappings saved.
+Periodic save done at: 360s. 19 mappings saved.
+Periodic save done at: 723s. 19 mappings saved.
+Periodic save done at: 1446s. 19 mappings saved.
+Second phase entirely completed. Results stored in the run folder.
+Currently processing the SimpleCNN
+...
+
+qdariol@qdariol:~/workspace/pssim4ai/models/DSE$ python tester.py
+Currently processing the CNN
+Starting or re-Starting second phase: exploring mappings from multiple clusterings simultaneously
+Periodic save done at: 191s. 2066 mappings saved.
+Periodic save done at: 363s. 2116 mappings saved.
+Periodic save done at: 725s. 2223 mappings saved.
+Periodic save done at: 1442s. 2434 mappings saved.
+Periodic save done at: 2881s. 2863 mappings saved.
+Periodic save done at: 5771s. 3715 mappings saved.
+Second phase entirely completed. Results stored in the run folder. Time spent:120min.
+run/CNN_maps.json
+Currently processing the MLP1
+Starting or re-Starting second phase: exploring mappings from multiple clusterings simultaneously
+Periodic save done at: 185s. 2115 mappings saved.
+Periodic save done at: 360s. 2165 mappings saved.
+Periodic save done at: 720s. 2268 mappings saved.
+Periodic save done at: 1444s. 2476 mappings saved.
+Periodic save done at: 2883s. 2888 mappings saved.
+Periodic save done at: 5762s. 3711 mappings saved.
+Second phase entirely completed. Results stored in the run folder. Time spent:120min.
+run/MLP1_maps.json
+Currently processing the MLP2
+Starting or re-Starting second phase: exploring mappings from multiple clusterings simultaneously
+Periodic save done at: 181s. 2085 mappings saved.
+Periodic save done at: 365s. 2139 mappings saved.
+Periodic save done at: 722s. 2244 mappings saved.
+Periodic save done at: 1441s. 2456 mappings saved.
+Periodic save done at: 2880s. 2879 mappings saved.
+Periodic save done at: 5763s. 3725 mappings saved.
+Second phase entirely completed. Results stored in the run folder. Time spent:120min.
+run/MLP2_maps.json
+Currently processing the MLP3
+Starting or re-Starting second phase: exploring mappings from multiple clusterings simultaneously
+Periodic save done at: 180s. 2100 mappings saved.
+Periodic save done at: 363s. 2154 mappings saved.
+Periodic save done at: 724s. 2260 mappings saved.
+Periodic save done at: 1456s. 2476 mappings saved.
+Periodic save done at: 2889s. 2898 mappings saved.
+Periodic save done at: 5764s. 3736 mappings saved.
+Second phase entirely completed. Results stored in the run folder. Time spent:120min.
+run/MLP3_maps.json
+
+
+~~ooOoo~~
+
+qdariol@qdariol:~/workspace/pssim4ai/models/DSE$ python tester.py
+Currently processing the CNN
+Naive mapping: [[1, 2, 3, 4, 5], [1], [1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1]]
+The naive implementation IS beaten!
+List of best mappings found that optimized energy:
+    - n.1 - Mapping: [[1, 2, 3, 4, 5], [1], [1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5], [1]] | Mode: CG | Energy: 41.80 mJ, Diff:0.00 %.     | Latency: 3117941.36 cycles, Diff: 0.00 %.    | Platform dimensions: [128, 128, 128, 128, 128, 128, 128]
+      ↪ This is the mapping with the best energy.
+      ↪ This is the mapping with the best latency.
+    - n.2 - Mapping: [[1, 2, 3, 4, 5], [1], [1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6], [1]] | Mode: CG | Energy: 41.81 mJ, Diff:0.04 %.     | Latency: 3118566.04 cycles, Diff: 0.02 %.    | Platform dimensions: [128, 128, 128, 128, 128, 128, 128]
+    - n.3 - Mapping: [[1, 2, 3, 4, 5], [1], [1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: CG | Energy: 41.86 mJ, Diff:0.16 %.     | Latency: 3122969.97 cycles, Diff: 0.16 %.    | Platform dimensions: [128, 128, 128, 128, 128, 128, 128]
+      ↪ This is the naive mapping.
+    - n.4 - Mapping: [[1, 2, 3, 4, 5], [1], [1, 2, 3, 4, 5, 6], [1, 2, 3, 4, 5], [1]] | Mode: CG | Energy: 43.80 mJ, Diff:4.79 %.     | Latency: 3145251.32 cycles, Diff: 0.88 %.    | Platform dimensions: [128, 128, 128, 128, 128, 128]
+    - n.5 - Mapping: [[1, 2, 3, 4, 5], [1], [1, 2, 3, 4, 5], [1, 2, 3, 4, 5], [1]] | Mode: CG | Energy: 46.32 mJ, Diff:10.82 %.     | Latency: 3224294.17 cycles, Diff: 3.41 %.    | Platform dimensions: [128, 128, 128, 128, 128]
+    - n.6 - Mapping: [[1, 2, 3, 4, 5], [1], [1, 2, 3, 4, 5, 6], [1, 2, 3, 4, 5], [1]] | Mode: P | Energy: 46.66 mJ, Diff:11.63 %.     | Latency: 3235806.97 cycles, Diff: 3.78 %.    | Platform dimensions: [128, 128, 128, 128, 128, 128]
+    - n.7 - Mapping: [[1, 2, 3, 4, 5], [1], [1, 2, 3, 4, 5], [1, 2, 3, 4, 5], [1]] | Mode: P | Energy: 46.94 mJ, Diff:12.30 %.     | Latency: 3262812.85 cycles, Diff: 4.65 %.    | Platform dimensions: [128, 128, 128, 128, 128]
+    - n.8 - Mapping: [[1, 2, 3, 4, 5], [1], [1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5], [1]] | Mode: P | Energy: 47.08 mJ, Diff:12.64 %.     | Latency: 3267265.56 cycles, Diff: 4.79 %.    | Platform dimensions: [128, 128, 128, 128, 128, 128, 128]
+    - n.9 - Mapping: [[1, 2, 3, 4, 5], [1], [1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6], [1]] | Mode: P | Energy: 47.09 mJ, Diff:12.65 %.     | Latency: 3267479.37 cycles, Diff: 4.80 %.    | Platform dimensions: [128, 128, 128, 128, 128, 128, 128]
+    - n.10 - Mapping: [[1, 2, 3, 4, 5], [1], [1, 2, 3, 4], [1, 2, 3, 4, 5], [1]] | Mode: CG | Energy: 47.49 mJ, Diff:13.62 %.     | Latency: 3354239.38 cycles, Diff: 7.58 %.    | Platform dimensions: [128, 128, 128, 128, 128]
+
+Number of mappings explored: 4125
+
+~~ooOoo~~
+
+Currently processing the MLP1
+Naive mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1]]
+The naive implementation IS beaten!
+List of best mappings found that optimized energy:
+    - n.1 - Mapping: [[1, 2, 3, 4, 5], [1, 2, 3, 2, 3], [1]] | Mode: P | Energy: 1.40 mJ, Diff:0.00 %.     | Latency: 97288.80 cycles, Diff: 0.00 %.    | Platform dimensions: [32, 32, 32, 32, 32]
+      ↪ This is the mapping with the best energy.
+      ↪ This is the mapping with the best latency.
+    - n.2 - Mapping: [[1, 2, 3, 4, 5], [1, 2, 3, 2, 3], [1]] | Mode: P | Energy: 1.40 mJ, Diff:0.00 %.     | Latency: 97288.80 cycles, Diff: 0.00 %.    | Platform dimensions: [32, 32, 32, 32, 32]
+    - n.3 - Mapping: [[1, 2, 3, 4, 5], [1, 2, 2, 3, 3], [1]] | Mode: P | Energy: 1.41 mJ, Diff:0.07 %.     | Latency: 97374.82 cycles, Diff: 0.09 %.    | Platform dimensions: [32, 32, 32, 32, 32]
+    - n.4 - Mapping: [[1, 2, 3, 4, 5], [1, 2, 2, 3, 3], [1]] | Mode: P | Energy: 1.41 mJ, Diff:0.07 %.     | Latency: 97374.82 cycles, Diff: 0.09 %.    | Platform dimensions: [32, 32, 32, 32, 32]
+    - n.5 - Mapping: [[1, 2, 3, 4, 5], [1, 2, 3, 3, 2], [1]] | Mode: P | Energy: 1.41 mJ, Diff:0.08 %.     | Latency: 97380.80 cycles, Diff: 0.09 %.    | Platform dimensions: [32, 32, 32, 32, 32]
+    - n.6 - Mapping: [[1, 2, 3, 4, 5], [1, 2, 3, 3, 2], [1]] | Mode: P | Energy: 1.41 mJ, Diff:0.08 %.     | Latency: 97380.80 cycles, Diff: 0.09 %.    | Platform dimensions: [32, 32, 32, 32, 32]
+    - n.7 - Mapping: [[1, 2, 3, 4, 5], [1, 2, 2, 4, 4], [1]] | Mode: P | Energy: 1.41 mJ, Diff:0.13 %.     | Latency: 97372.80 cycles, Diff: 0.09 %.    | Platform dimensions: [32, 32, 32, 32, 32]
+    - n.8 - Mapping: [[1, 2, 3, 4, 5], [1, 2, 2, 4, 4], [1]] | Mode: P | Energy: 1.41 mJ, Diff:0.13 %.     | Latency: 97372.80 cycles, Diff: 0.09 %.    | Platform dimensions: [32, 32, 32, 32, 32]
+    - n.9 - Mapping: [[1, 2, 3, 4, 5], [1, 2, 3, 1, 2], [1]] | Mode: P | Energy: 1.41 mJ, Diff:0.43 %.     | Latency: 97816.07 cycles, Diff: 0.54 %.    | Platform dimensions: [32, 32, 32, 32, 32]
+    - n.10 - Mapping: [[1, 2, 3, 4, 5], [1, 2, 3, 2, 1], [1]] | Mode: P | Energy: 1.41 mJ, Diff:0.43 %.     | Latency: 97816.07 cycles, Diff: 0.54 %.    | Platform dimensions: [32, 32, 32, 32, 32]
+    ...
+    - n.143 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5], [1]] | Mode: CG | Energy: 1.48 mJ, Diff:5.71 %.     | Latency: 106394.91 cycles, Diff: 9.36 %.    | Platform dimensions: [32, 32, 32, 32, 32, 32, 32]
+    ...
+    - n.212 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: CG | Energy: 1.63 mJ, Diff:16.08 %.     | Latency: 120213.14 cycles, Diff: 23.56 %.    | Platform dimensions: [32, 32, 32, 32, 64, 64, 64]
+      ↪ This is the naive mapping.
+
+Number of mappings explored: 4125
+
+~~ooOoo~~
+
+Currently processing the MLP2
+Naive mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1]]
+The naive implementation IS beaten!
+List of best mappings found that optimized energy:
+    - n.1 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3], [1, 2, 3, 4, 5], [1]] | Mode: CG | Energy: 3.43 mJ, Diff:0.00 %.     | Latency: 224053.86 cycles, Diff: 0.00 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+      ↪ This is the mapping with the best energy.
+      ↪ This is the mapping with the best latency.
+    - n.2 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3], [1, 2, 3, 4, 5], [1]] | Mode: P | Energy: 3.56 mJ, Diff:3.78 %.     | Latency: 235991.82 cycles, Diff: 5.33 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.3 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4], [1, 2, 3, 4, 5], [1]] | Mode: CG | Energy: 3.59 mJ, Diff:4.67 %.     | Latency: 240561.12 cycles, Diff: 7.37 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.4 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2], [1, 2, 3, 4, 5], [1]] | Mode: CG | Energy: 3.59 mJ, Diff:4.74 %.     | Latency: 244363.58 cycles, Diff: 9.06 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.5 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1], [1, 2, 3, 4, 5], [1]] | Mode: CG | Energy: 3.61 mJ, Diff:5.18 %.     | Latency: 249634.76 cycles, Diff: 11.42 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.6 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5], [1]] | Mode: P | Energy: 3.61 mJ, Diff:5.20 %.     | Latency: 240132.38 cycles, Diff: 7.18 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.7 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6], [1, 2, 3, 4, 5], [1]] | Mode: P | Energy: 3.61 mJ, Diff:5.30 %.     | Latency: 240415.24 cycles, Diff: 7.30 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.8 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5], [1, 2, 3, 4, 5], [1]] | Mode: P | Energy: 3.62 mJ, Diff:5.56 %.     | Latency: 241116.40 cycles, Diff: 7.62 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.9 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6], [1]] | Mode: P | Energy: 3.62 mJ, Diff:5.58 %.     | Latency: 241194.62 cycles, Diff: 7.65 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.10 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4], [1, 2, 3, 4, 5], [1]] | Mode: P | Energy: 3.62 mJ, Diff:5.63 %.     | Latency: 241412.57 cycles, Diff: 7.75 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    ...
+    - n.16 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: CG | Energy: 3.66 mJ, Diff:6.61 %.     | Latency: 243685.52 cycles, Diff: 8.76 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+      ↪ This is the naive mapping.
+
+Number of mappings explored: 4146
+
+~~ooOoo~~
+
+Currently processing the MLP3
+Naive mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1]]
+The naive implementation IS beaten!
+List of best mappings found that optimized energy:
+    - n.1 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: P | Energy: 2.86 mJ, Diff:0.00 %.     | Latency: 192008.00 cycles, Diff: 0.00 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+      ↪ This is the mapping with the best energy.
+      ↪ This is the mapping with the best latency.
+    - n.2 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: CG | Energy: 2.88 mJ, Diff:0.60 %.     | Latency: 195209.49 cycles, Diff: 1.67 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.3 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: P | Energy: 2.88 mJ, Diff:0.72 %.     | Latency: 193838.00 cycles, Diff: 0.95 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.4 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: CG | Energy: 2.88 mJ, Diff:0.76 %.     | Latency: 196108.96 cycles, Diff: 2.14 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.5 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: CG | Energy: 2.90 mJ, Diff:1.43 %.     | Latency: 200598.39 cycles, Diff: 4.47 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.6 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: CG | Energy: 2.90 mJ, Diff:1.55 %.     | Latency: 196891.73 cycles, Diff: 2.54 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+      ↪ This is the naive mapping.
+    - n.7 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: CG | Energy: 2.92 mJ, Diff:1.99 %.     | Latency: 203830.66 cycles, Diff: 6.16 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.8 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3, 4], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: P | Energy: 2.92 mJ, Diff:2.13 %.     | Latency: 197136.12 cycles, Diff: 2.67 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.9 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: CG | Energy: 2.97 mJ, Diff:3.75 %.     | Latency: 211586.90 cycles, Diff: 10.20 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+    - n.10 - Mapping: [[1, 2, 3, 4, 5, 6, 7], [1, 2, 3], [1, 2, 3, 4, 5, 6, 7], [1]] | Mode: P | Energy: 2.97 mJ, Diff:3.79 %.     | Latency: 201224.97 cycles, Diff: 4.80 %.    | Platform dimensions: [64, 64, 64, 64, 64, 64, 64]
+
+Number of mappings explored: 4155
+
+~~ooOoo~~
+

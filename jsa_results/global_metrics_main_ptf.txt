@@ -1,0 +1,6 @@
+avg_error_time: 0.49 %
+avg_error_power: 2.54 %
+avg_error_energy: 2.70 %
+max_error_time: 2.85 %
+max_error_power: 7.03 %
+max_error_energy: 7.21 %

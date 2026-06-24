@@ -1,0 +1,42 @@
+PTF: [64, 64, 64]
+ - scenario_count: 4
+ - avg_error_power: 3.56 %
+ - avg_error_energy: 3.95 %
+ - max_error_power: 4.93 %
+ - max_error_energy: 5.13 %
+
+PTF: [2048]
+ - scenario_count: 6
+ - avg_error_power: 9.21 %
+ - avg_error_energy: 8.82 %
+ - max_error_power: 10.71 %
+ - max_error_energy: 10.32 %
+
+PTF: [1024]
+ - scenario_count: 6
+ - avg_error_power: 7.56 %
+ - avg_error_energy: 7.16 %
+ - max_error_power: 8.36 %
+ - max_error_energy: 7.97 %
+
+PTF: [512]
+ - scenario_count: 6
+ - avg_error_power: 4.74 %
+ - avg_error_energy: 4.32 %
+ - max_error_power: 5.25 %
+ - max_error_energy: 4.85 %
+
+PTF: [64, 64]
+ - scenario_count: 2
+ - avg_error_power: 0.95 %
+ - avg_error_energy: 0.54 %
+ - max_error_power: 1.25 %
+ - max_error_energy: 0.75 %
+
+PTF: [1024, 512, 512, 256, 256]
+ - scenario_count: 2
+ - avg_error_power: 2.50 %
+ - avg_error_energy: 2.71 %
+ - max_error_power: 2.53 %
+ - max_error_energy: 2.87 %
+

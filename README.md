@@ -1,93 +1,65 @@
-# pssim4ai-open
+# pSSim4AI project open source repository
+The pSSim4AI project introduces a hybrid modeling flow for early timing and energy prediction of Artificial Neural Networks (ANNs) mappings on edge multi-core platforms. The flow combines Electronic System Level (ESL) simulation in SystemC TLM, analytical computation and communication models, and a detailed calibration approach through measurements. This enables achieving high prediction accuracy and speed while offering good re-applicability accross settings.
 
+The proposed models are fast (<2s evaluation time) and accurate (>97% accuracy on timing, >93% on energy), tested across a wide range of neural network application mappings and settings (54 mappings with e.g. different number of processing cores, communication rates, power management settings). We provide a Design Space Exploration (DSE) flow, which shows up to 24% improvement in inference time and 16% in energy compared to baseline implementation.
 
+Find out more in our [2026 Journal of Systems Architecture article](https://doi.org/10.1016/j.sysarc.2026.103738).
 
-## Getting started
+![Alt text](figures/overview_flow.pdf?raw=true "Flow")
+Figure - Proposed modeling and Design Space Exploration (DSE) flow in the scope of the pSSim4AI project
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+## List of folders
+The pSSim4AI project open source Git repository is organized as follows:
+* `./figures`: Contains the flow figure.
+* `./jsa_results`: Contains the results as presented in our JSA article. Contains also Python scripts which are used to display the results.
+* `./models`: Contains the proposed models and the DSE flow.
+  * `./models/DSE`: This folder contains a Python API which allows automatically running the model evaluation (54 mappings tested in our JSA article) and the DSE loop. It also contains the data presented in our article. It is recommended to use the scripts in this folder to run our experiments.
+  * `./models/MessageLevelSystemCModel`: implementation of the SystemC modeling flow. We recommend to use the API in the DSE folder to run our SystemC models.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+## Dependencies
+* GNU/Linux with bash
+* g++ or clang++ (10.0.0) with C++14 support
+* SystemC (2.3.2 or 2.3.3)
+* Python 3.6.9
 
-## Add your files
+## Contributors
+This project was led in 2020-2023 in collaboration between the Institute Systems Engineering for Future Mobility (DLR-SE), Oldenburg, Germany and the Institut d'Électronique et des Technologies du numéRique (IETR) UMR CNRS 6164, Nantes Université, Nantes, France.
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+* Quentin Dariol:
+  * Adaptation of the SystemC timing modeling flow from pSSim4MC project for ANNs
+    * Computation time model for ANNs,
+    * Recalibration of communication time model for interrupt-based + clock gating communications,
+    * Prediction and measurement for various mappings of 4 different ANNs applications.
+  * Implementation of clock gating on the interrupt-based version of the pSSim4MC platform,
+  * Power and energy modeling flow for ANNs on multi-core platforms,
+  * Design Space Exploration and evaluation automation.
+* Research work supervised by Sebastien Le Nours, Sebastien Pillement, Kim Grüttner, Domenik Helms and Ralf Stemmer.
+* Elements from the pSSim4MC project:
+  * Ralf Stemmer: base framework in SystemC, implementation platform prototype, tools for the implementation of SDF applications on multi-core platforms, communication time model.
+    * The contributions of Ralf Stemmer will be available on the following Zenodo repository: <https://zenodo.org/record/7976829>
+    * Ralf Stemmer supervised bachelor work that led to the creation of the interrupt-based version of the prototype platform.
+  * Hai Dang Vu: Communication time model, base framework in SystemC.
 
-```
-cd existing_repo
-git remote add origin https://gitlab.univ-nantes.fr/lenours-s/pssim4ai-open.git
-git branch -M main
-git push -uf origin main
-```
+## Publications
+You can read more on this project on the following publications:
 
-## Integrate with your tools
+### PhD thesis
+- [**PhDThesis'2023:** Early Timing and Energy Prediction and Optimization of Artificial Neural Networks on Multi-Core Platforms, Nantes Université](https://theses.hal.science/tel-04390337v1)
 
-- [ ] [Set up project integrations](https://gitlab.univ-nantes.fr/lenours-s/pssim4ai-open/-/settings/integrations)
+### International journal article
+- [**JSA'2026:** A Measurement-Based Calibration Approach for Highly Scalable Timing and Energy Modeling of EdgeAI Multi-Core Systems](https://doi.org/10.1016/j.sysarc.2026.103738)
 
-## Collaborate with your team
+### Lectures in international conferences
+- [**RAPIDO'2023:** Fast Yet Accurate Timing and Power Prediction of Artificial Neural Networks Deployed on Clock-Gated Multi-Core Platforms](https://dx.doi.org/10.1145/3579170.3579263)
+- [**SAMOS'2022:** A Hybrid Performance Prediction Approach for Fully-Connected Artificial Neural Networks on Multi-core Platforms](https://dx.doi.org/10.1007/978-3-031-15074-6_16)
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Set auto-merge](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+### Poster presentations
+- [**GRETSI'2023:** Early Performance and Energy Prediction of Neural Networks Deployed on Multi-Core Platforms](https://hal.science/hal-04186902)
+- [**GDRSOC'2022:** Hybrid Performance Prediction Models for Fully-Connected Neural Networks on MPSoC](https://hal.science/hal-03758026)
+- [**GDRSOC'2021:** A Measurement-based Performance Evaluation Framework for Neural Networks on MPSoC](https://hal.science/hal-03248152)
 
-## Test and Deploy
-
-Use the built-in continuous integration in GitLab.
-
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing (SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
-
-***
-
-# Editing this README
-
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thanks to [makeareadme.com](https://www.makeareadme.com/) for this template.
-
-## Suggestions for a good README
-
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
-
-## Name
-Choose a self-explaining name for your project.
-
-## Description
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
-
-## Badges
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
-
-## Visuals
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-Show your appreciation to those who have contributed to the project.
+### Technical report
+- [**TechReport'2022:** Setup of an Experimental Framework for Performance Modeling and Prediction of Embedded Multicore AI Architectures](https://hal.science/hal-03546804)
 
 ## License
-For open source projects, say how it is licensed.
-
-## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+The pSSim4AI open source repository is released under the BSD-3-Clause license, a free software license approved by the open source initative.

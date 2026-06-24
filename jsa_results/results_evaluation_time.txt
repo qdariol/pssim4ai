@@ -1,0 +1,4 @@
+Mapping evaluation terminated! Total execution time: 0:01:35.151698
+Average evaluation time per mapping: 0:00:01.762068
+Maximum evaluation time: 0:00:02.273306
+Minimum evaluation time: 0:00:01.542165

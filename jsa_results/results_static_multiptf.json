@@ -1,0 +1,71 @@
+[
+    {
+        "error_static_power": -1.5356144578313058,
+        "measured_static_power": 1.245,
+        "memory_tab": [
+            1024,
+            256,
+            256,
+            256,
+            256,
+            256,
+            256
+        ],
+        "predicted_static_power": 1.2258816000000003
+    },
+    {
+        "error_static_power": 0.5290015847860463,
+        "measured_static_power": 1.0096,
+        "memory_tab": [
+            512,
+            256,
+            256,
+            128,
+            128
+        ],
+        "predicted_static_power": 1.0149408
+    },
+    {
+        "error_static_power": -3.3326953897266183,
+        "measured_static_power": 0.85483,
+        "memory_tab": [
+            64,
+            64,
+            64
+        ],
+        "predicted_static_power": 0.8263411199999999
+    },
+    {
+        "error_static_power": -4.737863326401326,
+        "measured_static_power": 0.82708,
+        "memory_tab": [
+            64,
+            64
+        ],
+        "predicted_static_power": 0.7878940799999999
+    },
+    {
+        "error_static_power": -1.5698455730264755,
+        "measured_static_power": 0.99594,
+        "memory_tab": [
+            2048
+        ],
+        "predicted_static_power": 0.9803052800000002
+    },
+    {
+        "error_static_power": -4.217397977910496,
+        "measured_static_power": 0.89907,
+        "memory_tab": [
+            1024
+        ],
+        "predicted_static_power": 0.8611526400000001
+    },
+    {
+        "error_static_power": -2.1907288323795173,
+        "measured_static_power": 0.81953,
+        "memory_tab": [
+            512
+        ],
+        "predicted_static_power": 0.8015763200000001
+    }
+]
