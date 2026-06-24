@@ -5,7 +5,8 @@ The proposed models are fast (<2s evaluation time) and accurate (>97% accuracy o
 
 Find out more in our [2026 Journal of Systems Architecture article](https://doi.org/10.1016/j.sysarc.2026.103738).
 
-![Alt text](figures/overview_flow.pdf?raw=true "Flow")
+![figures/overview_flow.png](https://github.com/qdariol/pssim4ai/blob/main/figures/overview_flow.png)
+
 Figure - Proposed modeling and Design Space Exploration (DSE) flow in the scope of the pSSim4AI project
 
 ## List of folders
