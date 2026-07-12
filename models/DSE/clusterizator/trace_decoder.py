@@ -7,8 +7,8 @@
 #              found in the "models" folder. The DSE version provides support for memory size.
 #              This version provides a single function TraceDecoder()
 # Author: Quentin Dariol
-# License: 3-clause BSD license, Copyright 2026 - Quentin Dariol, Ralf Stemmer, Sébastien Le Nours, Sébastien Pillement,
-#          Kim Grüttner, Domenik Helms - IETR UMR CNRS 6164, Nantes Université & German Aerospace Center (DLR e. V.)
+# License: 3-clause BSD license, Copyright 2026 - Quentin Dariol, Sébastien Le Nours, Sébastien Pillement, Ralf Stemmer, 
+#          Domenik Helms, Kim Grüttner, Hai Dang Vu - IETR UMR CNRS 6164, Nantes Université & German Aerospace Center (DLR e. V.)
 #
 
 import sys

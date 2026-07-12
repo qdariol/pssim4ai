@@ -4,8 +4,8 @@
 # Description: This module contains the ANalytical ONly (ANON) models. They correspond to "best case" models that are faster
 #              to execute than the SystemC models but also low in accuracy.
 # Author: Quentin Dariol
-# License: 3-clause BSD license, Copyright 2026 - Quentin Dariol, Ralf Stemmer, Sébastien Le Nours, Sébastien Pillement,
-#          Kim Grüttner, Domenik Helms - IETR UMR CNRS 6164, Nantes Université & German Aerospace Center (DLR e. V.)
+# License: 3-clause BSD license, Copyright 2026 - Quentin Dariol, Sébastien Le Nours, Sébastien Pillement, Ralf Stemmer, 
+#          Domenik Helms, Kim Grüttner, Hai Dang Vu - IETR UMR CNRS 6164, Nantes Université & German Aerospace Center (DLR e. V.)
 #
 
 import numpy as np

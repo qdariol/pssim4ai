@@ -4,8 +4,8 @@
 # Description: This file contains functions to generate a NN clustering/mapping. The generation is optimized through the use
 #              of a Branch and Bound algorithm (often refered to as BB in the code).
 # Author: Quentin Dariol
-# License: 3-clause BSD license, Copyright 2026 - Quentin Dariol, Ralf Stemmer, Sébastien Le Nours, Sébastien Pillement,
-#          Kim Grüttner, Domenik Helms - IETR UMR CNRS 6164, Nantes Université & German Aerospace Center (DLR e. V.)
+# License: 3-clause BSD license, Copyright 2026 - Quentin Dariol, Sébastien Le Nours, Sébastien Pillement, Ralf Stemmer, 
+#          Domenik Helms, Kim Grüttner, Hai Dang Vu - IETR UMR CNRS 6164, Nantes Université & German Aerospace Center (DLR e. V.)
 #
 
 import copy
